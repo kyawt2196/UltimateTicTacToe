@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameBoard()
+comment1.params=
+comment1.target=void\ printScreen()
+comment2.params=
+comment2.target=boolean\ isGameOver()
+comment3.params=
+comment3.target=int[][]\ getBoard()
+comment4.params=row\ col\ value
+comment4.target=void\ changeValueInBoard(int,\ int,\ int)
+comment4.text=\r\nUsed\ to\ change\ the\ values\r\n\ \r\n\ @param\ row,\ col,\ value(1\ or\ 2)\r\n
+comment5.params=
+comment5.target=int\ checkWinner()
+comment5.text=\r\n\ to\ see\ if\ anyone\ won\r\n\ \r\n\ @param\ \ nada\r\n\ @return\ \ \ \ \ winningPlayer\r\n
+comment6.params=
+comment6.target=void\ boardReset()
+comment7.params=
+comment7.target=int\ getWinner()
+numComments=8
